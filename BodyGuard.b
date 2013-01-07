@@ -1,0 +1,3 @@
+agent BodyGuard memberof Companions {
+
+}

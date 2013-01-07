@@ -1,0 +1,3 @@
+agent Coach memberof Companions {
+
+}

@@ -1,0 +1,3 @@
+object textbook instanceof Book {
+
+}
